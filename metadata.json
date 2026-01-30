@@ -1,0 +1,8 @@
+{
+  "name": "CampusBites",
+  "description": "A modern college canteen food ordering platform with AI-powered recommendations and integrated payments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
