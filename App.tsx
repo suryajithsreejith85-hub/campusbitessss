@@ -19,7 +19,7 @@ const Login: React.FC<{ onLogin: (user: User) => void }> = ({ onLogin }) => {
     setTimeout(() => {
       onLogin({
         id: 'user_1',
-        name: 'Alex Johnson',
+        name: 'suryajith',
         email: email || 'student@college.edu',
         rollNumber: roll || '20CS101',
         balance: 500
